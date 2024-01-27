@@ -1,0 +1,40 @@
+body, menu {
+    padding: 0px;
+    margin: 0px;
+    }
+    menu ul{
+    margin: 0px;
+}
+menu li{
+    display: float;
+    margin-right: 50px;
+    }
+.menu {
+    background-color: black;
+    color: white;
+    line-height: 50px;
+    display: flow-root
+    }
+menu a {
+        color: white;
+        text-decoration: none;
+        }
+
+img { float: left;
+}
+
+section {float: left;
+}
+
+.features {float: inline-start;
+           display: flow-root;
+           overflow: auto;
+
+}
+
+section {
+    border: solid 1px black;
+    }
+    img{
+    float: left;
+    }

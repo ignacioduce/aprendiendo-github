@@ -1,0 +1,26 @@
+body {
+    background-color: #bad;
+    font-family: "Raleway", sans-serif;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+.item{
+    font-size: 40px;
+}
+span{
+    display: inline-block;
+    width: 300px;
+}
+
+p {
+    display: inline-block;
+    width: 200px;
+}

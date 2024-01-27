@@ -1,0 +1,29 @@
+#title {
+    color: white;
+    position: center;
+    background-image: url("./Portada.png");
+    background-size: 100%;
+    background-position: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+.table {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table td{
+    padding: 20px 15px;
+}
+
+.footer {
+    color: white;
+    background-color: rgb(255, 130, 190);
+    background-size: contain;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
